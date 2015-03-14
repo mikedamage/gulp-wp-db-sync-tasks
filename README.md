@@ -1,4 +1,4 @@
-WordPress Database Sync Gulp Tasks
+# WordPress Database Sync Gulp Tasks
 
 by Mike Green
 
