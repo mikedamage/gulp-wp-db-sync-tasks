@@ -1,0 +1,16 @@
+{
+  "name": "gulp-db-sync-tasks",
+  "version": "0.1.0",
+  "description": "Example Gulp tasks for synchronizing WordPress data between hosts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikedamage/gulp-wp-db-sync-tasks.git"
+  },
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-shell": "^0.4.0",
+    "gulp-ssh": "^0.3.3",
+    "lodash": "^3.5.0",
+    "run-sequence": "^1.0.2"
+  }
+}
