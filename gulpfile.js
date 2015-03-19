@@ -7,7 +7,6 @@ var path        = require('path');
 var gulp        = require('gulp');
 var $           = require('gulp-load-plugins');
 var runSequence = require('run-sequence');
-
 var config      = {
   dev: {
     mysql: {
